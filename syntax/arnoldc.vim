@@ -3,9 +3,9 @@
 " Maintainer: David Croal
 " Latest Revision: June 20 2014
 " A note about colour schemes and syntax groups - You will get more out of this if your colour scheme makes a disctintion among various syntax preferred and minor groups.
-" Statement is a preferred syntax group. 
-" The following are minor groups within the Statement group: Conditional, Repeat, Label, Operator, Keyword and Exception. 
-" In my copy of MacVim the colour scheme 'elflord' makes this distiction but 'murphy' does not. 
+" Statement is a preferred syntax group.
+" The following are minor groups within the Statement group: Conditional, Repeat, Label, Operator, Keyword and Exception.
+" In my copy of MacVim the colour scheme 'elflord' makes this distiction but 'murphy' does not.
 
 if exists("b:current_syntax")
   finish
